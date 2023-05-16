@@ -1,12 +1,19 @@
 # Modern Input Field 
-## [Watch it on youtube](https://youtu.be/Ygi-BDNwxPk)
-### ⌨️ Modern Input Field Animation 
+### BY TALO
+
+<a href="https://alphaotuken.github.io/Modern-Input/"><strong>➥ Live Demo</strong></a>
 
 - Modern Input Field Animation Using HTML & CSS.
 - With floating label animation.
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+### Contact
+
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/taloisik).
+
+### License
+
+This project contains the MIT Licence.
 
 ![preview img](/preview.png)
