@@ -1,4 +1,4 @@
-# ⌨️ Modern Input Field Animation 
+# Modern Input Field 
 ## [Watch it on youtube](https://youtu.be/Ygi-BDNwxPk)
 ### ⌨️ Modern Input Field Animation 
 
